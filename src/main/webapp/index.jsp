@@ -9,5 +9,6 @@
 </h1>
 <br/>
 <a href="/position">Positions</a>
+<a href="/department">Departments</a>
 </body>
 </html>

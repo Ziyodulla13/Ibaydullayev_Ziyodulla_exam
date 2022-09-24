@@ -43,10 +43,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\Ibaydullayev_Ziyodulla_exam\src\main\webapp\WEB-INF" />
+      <recent name="D:\Projects\Ibaydullayev_Ziyodulla_exam\src\main\java\uz\pdp\ibaydullayev_ziyodulla_exam\department" />
     </key>
   </component>
   <component name="RunManager">
@@ -145,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664000313697</updated>
-      <workItem from="1664000314963" duration="3185000" />
+      <workItem from="1664000314963" duration="3800000" />
     </task>
     <servers />
   </component>

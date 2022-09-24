@@ -22,13 +22,13 @@ public class PositionController {
 
     @GetMapping("/get-form")
     public String addForm() {
-        return "/add-form";
+        return "add-position-form";
     }
 
     @GetMapping("/edit/{id}")
     public String editForm(@PathVariable Integer id, Model model){
         model.addAttribute("position",positionDao.getPositionById(id));
-        return "/edit-form";
+        return "edit-position-form";
     }
 
     @PostMapping

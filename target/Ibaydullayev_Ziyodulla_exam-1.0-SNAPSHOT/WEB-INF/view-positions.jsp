@@ -18,7 +18,7 @@
     <c:forEach items="${position}" var="position" varStatus="loop">
         <h1>${position.name}</h1>
         <p>${position.description}</p>
-        <a href="/position/edit/${position.id}">Edit</a>
+        <a href="/position/edit/${position.id}">Edit</a><br>
         <a href="/position/delete/${position.id}">Delete</a>
 
     </c:forEach>
