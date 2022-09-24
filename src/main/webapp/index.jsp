@@ -10,5 +10,6 @@
 <br/>
 <a href="/position">Positions</a>
 <a href="/department">Departments</a>
+<a href="/employee">Employee</a>
 </body>
 </html>

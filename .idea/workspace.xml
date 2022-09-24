@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,6 +49,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\Ibaydullayev_Ziyodulla_exam\src\main\webapp\WEB-INF" />
       <recent name="D:\Projects\Ibaydullayev_Ziyodulla_exam\src\main\java\uz\pdp\ibaydullayev_ziyodulla_exam\department" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uz.pdp.ibaydullayev_ziyodulla_exam.employee" />
     </key>
   </component>
   <component name="RunManager">
@@ -147,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664000313697</updated>
-      <workItem from="1664000314963" duration="3800000" />
+      <workItem from="1664000314963" duration="6453000" />
     </task>
     <servers />
   </component>
