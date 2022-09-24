@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ibaydullayev_Ziyodulla_exam:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ibaydullayev_Ziyodulla_exam</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ibaydullayev_Ziyodulla_exam-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ibaydullayev_Ziyodulla_exam:war exploded" />
+    </root>
+  </artifact>
+</component>
